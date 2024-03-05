@@ -51,7 +51,16 @@ print(f"Received {data!r}")
 '''
 ## OUTPUT:
 ## SERVER OUTPUT:
-IMG_20240305_083633.jpg
+
+
+<img width="557" alt="image" src="https://github.com/sreekarsh/Echoserver/assets/139841918/bbb00c93-8598-44f1-b23d-5334c9e563f7">
+
+CLIENT SIDE:
+
+
+<img width="557" alt="image" src="https://github.com/sreekarsh/Echoserver/assets/139841918/fe761599-4d85-4feb-b5d9-ae40ded342ee">
+
+
 
 ## RESULT:
 The program is executed successfully
