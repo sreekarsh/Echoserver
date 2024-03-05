@@ -51,7 +51,7 @@ print(f"Received {data!r}")
 '''
 ## OUTPUT:
 ## SERVER OUTPUT:
-https://photos.app.goo.gl/K7A7WoZ3BDwDyLAbA
+IMG_20240305_083633.jpg
 
 ## RESULT:
 The program is executed successfully
